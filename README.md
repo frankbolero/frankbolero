@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @frankbolero
+- 👀 I’m interested in programming, music, food and wine/beer.
+- 🌱 I’m currently learning Rust & Go
+- 💞️ I’m looking to collaborate on unknown stuff
